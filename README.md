@@ -21,7 +21,10 @@ Data Visualization: Seaborn, Matplotlib
 
 ## Exploratory Data Analysis (EDA):
 Visualized price distribution
+<img width="1172" alt="Screen Shot 2025-03-14 at 1 43 55 AM" src="https://github.com/user-attachments/assets/12a47c17-f860-44d2-87ba-b7dedb9c6c3d" />
+
 Geographic price distribution using latitude/longitude
+<img width="1172" alt="Screen Shot 2025-03-14 at 1 44 34 AM" src="https://github.com/user-attachments/assets/b6553a9a-8627-4703-9dbc-811de73dc831" />
 
 ## Feature Engineering:
 Converted categorical variables
