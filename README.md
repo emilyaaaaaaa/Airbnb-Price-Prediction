@@ -6,12 +6,12 @@ This project aims to predict Airbnb listing prices in Chicago based on various f
 
 ## Repository Structure
 
-├── data/                 # Contains dataset files (Chicago_listings.csv)
-├── notebooks/            # Jupyter notebooks with data analysis and modeling
-├── reports/              # Contains reports (PDF)
-├── .gitignore            # Files to ignore in the repository
-├── LICENSE               # Open-source license file
-├── README.md             # Project overview and instructions
+├── data/                 
+├── notebooks/            
+├── reports/           
+├── .gitignore        
+├── LICENSE           
+├── README.md            
 
 ## Tools & Technologies
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
